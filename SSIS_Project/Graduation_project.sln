@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Graduation_project", "Graduation_project.dtproj", "{65DC0E7D-CD1A-4615-9D7F-E9BAF8D6940F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65DC0E7D-CD1A-4615-9D7F-E9BAF8D6940F}.Development|Default.ActiveCfg = Development
+		{65DC0E7D-CD1A-4615-9D7F-E9BAF8D6940F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AF9E67F-7C9A-4234-8D44-0A73A50D658F}
+	EndGlobalSection
+EndGlobal
