@@ -3,6 +3,9 @@
 ## Project Overview
 The **Gravity Books ETL Project** leverages **SQL Server Integration Services (SSIS)** to implement a comprehensive **ETL (Extract, Transform, Load)** pipeline. The project focuses on efficiently managing the data flow from multiple sources into a centralized **SQL Server database**, streamlining the process for analyzing book inventory, sales, and customer transactions. Additionally, **Power BI** is used to build interactive dashboards for visualizing key business metrics, providing insights into sales trends, inventory levels, and customer behavior.
 
+![Individual_Project](https://github.com/user-attachments/assets/f8eebbf6-f765-4d33-a298-22289a2d42d9)
+
+
 ## Features
 
 ### 1. Data Extraction
